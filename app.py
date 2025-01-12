@@ -219,7 +219,7 @@ with contact_col2:
                 <p style='font-size: 1.1rem; margin-bottom: 1rem;'>
                     <span style='color: #a78bfa;'>📧</span> 
                     <a href='mailto:projectrpa976@gmail.com' style='color: #f3f4f6; text-decoration: none; hover:color: #a78bfa;'>
-                        contact@campuscoders.dev
+                        projectrpa976@gmail.com
                     </a>
                 </p>
                 <p style='font-size: 1.1rem; margin-bottom: 1rem;'>
